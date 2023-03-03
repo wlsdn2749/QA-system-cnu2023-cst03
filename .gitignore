@@ -25,3 +25,4 @@ venv
 .*.sw?
 application-aws.yml
 *.iml
+secrets.json
